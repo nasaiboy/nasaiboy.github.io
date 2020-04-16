@@ -6,8 +6,8 @@ const ap = new APlayer({
     audio: [{
         name: '沉默是金',
         artist: '张国荣',
-        url: 'https://blog-1258023068.cos.ap-beijing.myqcloud.com/m1.mp3',
-        cover: 'https://blog-1258023068.cos.ap-beijing.myqcloud.com/zgr4.jpg',
+        url: 'https://nasaiboy.oss-cn-qingdao.aliyuncs.com/m1.mp3',
+        cover: 'https://nasaiboy.oss-cn-qingdao.aliyuncs.com/zgr4.jpg',
         lrc: '[00:00.000] 作曲 : 张国荣\n' +
             '[00:01.000] 作词 : 许冠杰\n' +
             '[00:26.27]夜风凛凛 独回望旧事前尘\n' +
