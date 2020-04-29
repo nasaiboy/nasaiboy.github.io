@@ -27,13 +27,10 @@
     
     <summary type="html">
     
-      &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;h1 id=&quot;IntelliJ-IDEA2020-1和JDK14体验&quot;&gt;&lt;a href=&quot;#IntelliJ-IDEA2020-1和JDK14体验&quot; class=&quot;headerlink&quot; title=&quot;IntelliJ IDEA2020.1和JDK14体验&quot;&gt;&lt;/a&gt;IntelliJ IDEA2020.1和JDK14体验&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/blog1.png&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;IntelliJ-IDEA新功能&quot;&gt;&lt;a href=&quot;#IntelliJ-IDEA新功能&quot; class=&quot;headerlink&quot; title=&quot;IntelliJ IDEA新功能:&quot;&gt;&lt;/a&gt;IntelliJ IDEA新功能:&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;- 界面支持中文&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/blog3.png&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/blog4.png&quot; alt&gt;&lt;br&gt;&lt;strong&gt;但这里要注意的是不是原生支持中文，而是要安装jetbrains的官方插件，如下图&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/%20blog2.png&quot; alt&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;- 导航栏改进&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/blog5.png&quot; alt&gt;&lt;/p&gt;
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
     
     </summary>
     
@@ -52,8 +49,10 @@
     
     <summary type="html">
     
-      &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;p&gt;&lt;strong&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;大家好，这是我第一次写我个人的blog，我是一个小孩，我目前12岁了，我很喜欢编程。我的名字叫nasaiboy,        为什么叫这个名字呢？因为从小我就很喜欢美国航天局（nasa），而身为一个程序员，我又很喜欢AI，所以这个名字中间有一个ai,boy就很简单解释了，因为我是个男生嘛。我比较喜欢前端，后端也有一点接触，我还有一个博客网站——&lt;a href=&quot;https://nasaiboy.com&quot;&gt;nasaiboy.com&lt;/a&gt;希望大家多多支持。&lt;/strong&gt;&lt;br&gt;个人博客:&lt;code&gt;https://nasaiboy.com&lt;/code&gt;&lt;br&gt;微信:nasaiboy&lt;br&gt;QQ:1627701436&lt;br&gt;邮箱:&lt;a href=&quot;mailto:1627701436@qq.com&quot;&gt;1627701436@qq.com&lt;/a&gt;&lt;br&gt;github:&lt;code&gt;github.com/nasaiboy&lt;/code&gt;&lt;br&gt;p.s.最后附上本人三年级的图片😎&lt;br&gt;&lt;img src=&quot;https://nasaiboy.oss-cn-qingdao.aliyuncs.com/picture.png&quot; alt&gt;&lt;br&gt;本作品采用&lt;a rel=&quot;license noopener&quot; href=&quot;http://creativecommons.org/licenses/by/4.0/&quot; target=&quot;_blank&quot;&gt;知识共享署名 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;/p&gt;
-
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
     
     </summary>
     
