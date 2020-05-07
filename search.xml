@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2020/05/07/test/"/>
+      <url>/2020/05/07/test/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><video src="https://blog-1258023068.cos.ap-beijing.myqcloud.com/blockchain.mp4"></video></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>IntelliJ IDEA2020.1和JDK14体验</title>
       <link href="/2020/04/29/IntelliJ-IDEA2020-1%E5%92%8CJDK14%E4%BD%93%E9%AA%8C/"/>
       <url>/2020/04/29/IntelliJ-IDEA2020-1%E5%92%8CJDK14%E4%BD%93%E9%AA%8C/</url>
