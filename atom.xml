@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nasaiboy.com/"/>
-  <updated>2020-05-07T05:32:53.999Z</updated>
+  <updated>2020-05-07T05:34:58.281Z</updated>
   <id>https://nasaiboy.com/</id>
   
   <author>
@@ -21,13 +21,16 @@
     <link href="https://nasaiboy.com/2020/05/07/test/"/>
     <id>https://nasaiboy.com/2020/05/07/test/</id>
     <published>2020-05-07T05:14:42.000Z</published>
-    <updated>2020-05-07T05:32:53.999Z</updated>
+    <updated>2020-05-07T05:34:58.281Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"https://blog-1258023068.cos.ap-beijing.myqcloud.com/blockchain.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"https://blog-1258023068.cos.ap-beijing.myqcloud.com/blockchain.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
     
-      &lt;div id=&quot;dplayer0&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&quot;container&quot;:document.getElementById(&quot;dplayer0&quot;),&quot;theme&quot;:&quot;#FADFA3&quot;,&quot;video&quot;:{&quot;url&quot;:&quot;https://blog-1258023068.cos.ap-beijing.myqcloud.com/blockchain.mp4&quot;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
     
     </summary>
     
